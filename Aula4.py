@@ -76,5 +76,4 @@
 # O objetivo é criar uma função que determine se um número inteiro é um número primo. 
 # Um número primo é um número natural maior que 1 que não pode ser formado pela multiplicação de dois números naturais menores.
 
-def nu_primo(x)
-    if x %3 == 0 or
+
